@@ -1,4 +1,3 @@
-# .github
-Default metadata files for repos in this org.
+# Element Integration Manager issues
 
-If you're seeing this readme in your project, your project is configured wrong.
+This repository is for issues related to the Element Integration Manager, which is an opt-in integration manager in the Element Web/Desktop, Android and iOS clients.
